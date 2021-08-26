@@ -1,0 +1,46 @@
+section {
+    background-color: #004047;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    text-align: center;
+}
+
+.block {
+    height: 253px;
+    background-color: #012F34;
+}
+.card-title {
+    color: #79C8C7;
+}
+.card-text {
+    color: #fff;
+}
+.aaa {
+    width: 16px;
+    height: 16px;
+    font-weight: 900;
+    font-size: 24px;
+}
+.plus {
+    padding-top: 11px;
+    width: 60px;
+    height: 60px;
+    margin-left: auto;
+    background-color: #F67E7E;
+    margin-right: auto;
+    transform: translateY(-50px)!important;
+}
+.header-two {
+    color: #fff;
+    text-align: center;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 48px;
+}
